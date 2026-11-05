@@ -37,20 +37,3 @@ Early development.
 ## License
 
 To be decided.
-
-PaperPulse/
-│
-├── firmware/
-│ └── esp8266/
-│
-├── backend/
-│
-├── integrations/
-│ └── home-assistant/
-│
-├── hardware/
-│
-├── docs/
-│
-├── .gitignore
-└── README.md
