@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Arduino / ESP8266
+.pio/
+.vscode/
+*.bin
+*.elf
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE
+.idea/
